@@ -1,4 +1,5 @@
 # Sales_in_the_database_store
-python setup_database.py
-python add_sample_data.py
-python main.py
+Очередность запуска файлов для корректного запуска:
+1. setup_database.py
+2. add_sample_data.py
+3. main.py
