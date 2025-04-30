@@ -1,1 +1,0 @@
-# Sales_in_the_database_store
